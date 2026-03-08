@@ -1,19 +1,20 @@
-# Python
-Day 1
-Title: Python Fundamentals – Variables & Data Types
+# Python Foundations – Week 1 Internship
 
-Description:
-This project demonstrates the basic concepts of Python variables and commonly used data types such as:
+This repository contains my **Week 1 internship tasks** focused on learning the fundamentals of Python programming.  
+The goal of this week was to build a strong foundation by practicing core concepts such as variables, operators, control flow, functions, and small projects.
 
-Integer (int)
+---
 
-Float (float)
+## Topics Covered
 
-String (str)
+- Python Setup and Environment
+- Variables and Data Types
+- Arithmetic, Comparison, and Logical Operators
+- Control Flow (if-else statements and loops)
+- Functions and Variable Scope
+- Mini Projects
+- Practice Problems and Reflection
 
-Boolean (bool)
+---
 
-List (list)
-
-Each example program illustrates variable declaration, type usage, and simple operations.
-The purpose of this repository is to build a strong foundation in Python programming as part of my internship learning journey.
+## Repository Structure
