@@ -17,4 +17,3 @@ The goal of this week was to build a strong foundation by practicing core concep
 
 ---
 
-## Repository Structure
